@@ -1,0 +1,42 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    border-radius: 40px;
+    color: aqua;
+}
+
+/* Header styles */
+.header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+.header p {
+    margin: 0;
+}
+
+/* Div styles */
+.New.Register, .Cancel.Registration {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.New.Register a, .Cancel.Registration a {
+    text-decoration: none;
+    color: #333;
+}
+
+.New.Register img, .Cancel.Registration img {
+    width: 100px; /* Adjust the size as needed */
+    height: 100px; /* Adjust the size as needed */
+    display: block;
+    margin: 0 auto;
+}
+
+
+/* You can add more styles as needed */
